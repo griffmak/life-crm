@@ -64,4 +64,4 @@ separately in the `people` field. The dashboard shows relationship decay
 (days since last plan with each person) using this field.
 
 ## Dashboard URL
-[Set this after Vercel deployment in Task 11]
+https://life-crm-amber.vercel.app
