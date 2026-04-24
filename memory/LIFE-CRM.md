@@ -1,8 +1,8 @@
 # Life CRM — Current State
 
-Last updated: 2026-04-24T08:00:00Z
+Last updated: 2026-04-24T12:00:00Z
 Last scan: 2026-04-24 (weekly)
-Total items: 11
+Total items: 12
 
 ## Housing
 
@@ -30,6 +30,7 @@ Total items: 11
 
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
+| Dentist Appointment | 2026-04-30 | — | MEDIUM | confirmed |
 | Hand in Hand Rehabilitation OT | — | — | LOW | confirmed |
 | Mount Sinai — Pending Referral | — | — | LOW | inferred |
 

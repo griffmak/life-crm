@@ -3,4 +3,4 @@
 Entries logged via /log-item slash command. Format: [date] [raw text] → [categorized as]
 
 ---
-_No entries yet_
+2026-04-24 "dentist appointment April 30" → Health: Dentist Appointment
