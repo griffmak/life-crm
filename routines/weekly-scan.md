@@ -74,18 +74,21 @@ If this was the first run (SCAN-LOG.md had "_No runs yet_"), replace that line
 rather than appending.
 
 ### Step 8 — Compose and send weekly briefing email
-Build HTML using single quotes for attribute values (no unescaped double quotes).
-Sections:
+
+IMPORTANT: Do NOT write a Python script or use urllib to send this email.
+The only correct method is to write the HTML to a file, then call send-email.sh.
+send-email.sh uses curl internally — Python-based HTTP clients are blocked by Cloudflare.
+
+Steps:
+1. Write the HTML body to `/tmp/briefing.html` using the Write tool (not Bash heredoc)
+2. Run: `bash scripts/send-email.sh "$USER_EMAIL" "Life CRM — Weekly Briefing $(date +%Y-%m-%d)" "$(cat /tmp/briefing.html)"`
+3. If the script exits non-zero, log the failure to SCAN-LOG.md and continue to Step 9
+
+HTML sections (use single quotes for all attribute values):
 1. **This Week** — items with next_due within 7 days, sorted by due date
 2. **Coming Up (30 days)** — items with next_due within 30 days
-3. **Decisions Needed** — HIGH urgency items with no due date, or where amount
-   changed vs last scan, or renewals where shopping alternatives is worth considering
-4. **Newly Detected** — items found for the first time this week (confidence: inferred)
-
-Send:
-```
-bash scripts/send-email.sh "$USER_EMAIL" "Life CRM — Weekly Briefing $(date +%Y-%m-%d)" "[HTML]"
-```
+3. **Decisions Needed** — HIGH urgency items with no due date, amount changed, or renewals worth reconsidering
+4. **Newly Detected** — items found for the first time this scan (confidence: inferred)
 
 ### Step 9 — Commit and push
 ```
