@@ -19,9 +19,10 @@ ANTHROPIC_API_KEY, USER_EMAIL
 Read memory/LIFE-CRM.md and memory/CATEGORIES.md.
 
 ### Step 2 — Determine Gmail lookback window
-Read memory/SCAN-LOG.md. If it contains the text "_No runs yet_", this is the
-first run — use `newer_than:90d` for all Gmail queries below (90-day historical
-lookback to build the full picture). Otherwise use `newer_than:7d`.
+Read memory/SCAN-LOG.md. If it contains any line starting with
+`weekly-scan`, a prior weekly scan has run — use `newer_than:7d`.
+Otherwise this is the first weekly scan — use `newer_than:90d` for all
+Gmail queries below (90-day historical lookback to build the full picture).
 
 ### Step 3 — Search Gmail
 Use Gmail MCP to run each query below (substituting the lookback window from
