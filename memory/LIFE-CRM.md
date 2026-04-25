@@ -2,7 +2,7 @@
 
 Last updated: 2026-04-24T12:00:00Z
 Last scan: 2026-04-24 (weekly)
-Total items: 14
+Total items: 15
 
 ## Housing
 
@@ -30,6 +30,7 @@ Total items: 14
 
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
+| Dentist appointment 4 | — | — | MEDIUM | confirmed |
 | Dentist appointment | — | — | MEDIUM | confirmed |
 | Dentist appointment | — | — | MEDIUM | confirmed |
 | Dentist Appointment | 2026-04-30 | — | MEDIUM | confirmed |
