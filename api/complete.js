@@ -33,7 +33,8 @@ export default async function handler(req, res) {
     fields.next_due = { stringValue: nextDue };
   }
 
-  const result = await fetch(`${base}/items/${id}?key=${FIRESTORE_API_KEY}`, {
+  const fieldPaths = Object.keys(fields).map(f => `updateMask.fieldPaths=${f}`).join('&');
+  const result = await fetch(`${base}/items/${id}?key=${FIRESTORE_API_KEY}&${fieldPaths}`, {
     method: 'PATCH',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ fields })
