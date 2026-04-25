@@ -2,7 +2,7 @@
 
 Last updated: 2026-04-24T12:00:00Z
 Last scan: 2026-04-24 (weekly)
-Total items: 15
+Total items: 16
 
 ## Housing
 
@@ -44,6 +44,7 @@ Total items: 15
 
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
+| Watch movie Michael with friend | — | — | LOW | confirmed |
 | Volo Sports Soccer — Spring 2026 | — | — | LOW | inferred |
 
 **Volo Soccer notes:** Soccer 6v6 Coed, Monday, Chelsea Ballfield. April 2026 season. Registration confirmed Mar 4, 2026. Season underway.
