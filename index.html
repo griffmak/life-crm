@@ -46,10 +46,38 @@
       border: 1px solid #2a2a2a;
       border-radius: 6px;
       padding: 14px 16px;
+      cursor: pointer;
+      user-select: none;
+      transition: border-color 0.15s;
     }
+    .card:hover { border-color: #444; }
+    .card.active { border-color: #555; background: #222; }
     .card-name { font-size: 12px; color: #999; margin-bottom: 6px; }
     .card-row { display: flex; align-items: center; gap: 8px; }
     .card-count { font-size: 20px; font-weight: 600; color: #fff; }
+    .card-items {
+      display: none;
+      margin-bottom: 24px;
+      border: 1px solid #2a2a2a;
+      border-radius: 6px;
+      overflow: hidden;
+    }
+    .card-items.open { display: block; }
+    .card-items-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 14px;
+      background: #222;
+      border-bottom: 1px solid #2a2a2a;
+      font-size: 12px;
+      font-weight: 600;
+      color: #999;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .card-items-close { cursor: pointer; color: #555; font-size: 16px; line-height: 1; }
+    .card-items-close:hover { color: #999; }
     .dot {
       width: 8px; height: 8px;
       border-radius: 50%;
@@ -137,6 +165,13 @@
   </header>
 
   <div class='cards' id='category-cards'></div>
+  <div class='card-items' id='card-items-panel'>
+    <div class='card-items-header'>
+      <span id='card-items-title'></span>
+      <span class='card-items-close' onclick='closeCategory()'>✕</span>
+    </div>
+    <div class='item-list' id='card-items-list' style='padding:8px;gap:4px;display:flex;flex-direction:column;'></div>
+  </div>
 
   <div class='section'>
     <div class='section-title'>Overdue</div>
@@ -180,6 +215,38 @@
 </div>
 
 <script>
+  let _allItems = [];
+  let _activeCat = null;
+
+  function toggleCategory(cat) {
+    const panel = document.getElementById('card-items-panel');
+    const list  = document.getElementById('card-items-list');
+    const title = document.getElementById('card-items-title');
+    const cards = document.querySelectorAll('.card');
+
+    if (_activeCat === cat) {
+      closeCategory();
+      return;
+    }
+
+    _activeCat = cat;
+    cards.forEach(c => c.classList.toggle('active', c.dataset.cat === cat));
+
+    const catItems = _allItems.filter(i => i.category === cat && i.status === 'active');
+    title.textContent = cat;
+    list.innerHTML = catItems.length
+      ? catItems.map(i => itemRow(i, false)).join('')
+      : "<div class='empty' style='padding:10px 4px;'>No active items in this category.</div>";
+    panel.classList.add('open');
+    panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+
+  function closeCategory() {
+    _activeCat = null;
+    document.getElementById('card-items-panel').classList.remove('open');
+    document.querySelectorAll('.card').forEach(c => c.classList.remove('active'));
+  }
+
   const CATEGORIES = [
     'Housing',
     'Bills & Subscriptions',
@@ -241,6 +308,7 @@
 
   function render(data) {
     const { items, lastRun } = data;
+    _allItems = items;
     const now = new Date();
     const today = now.toISOString().slice(0, 10);
 
@@ -263,7 +331,7 @@
         if (i.urgency === 'high') { dotClass = 'dot-red'; break; }
         if (i.urgency === 'medium') dotClass = 'dot-yellow';
       }
-      return `<div class='card'>
+      return `<div class='card' data-cat="${cat}" onclick='toggleCategory("${cat}")'>
         <div class='card-name'>${cat}</div>
         <div class='card-row'>
           <div class='card-count'>${catItems.length}</div>
