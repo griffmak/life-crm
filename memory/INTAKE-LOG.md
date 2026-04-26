@@ -1,11 +1,8 @@
 # iMessage Intake Log
 
-Entries logged via /log-item slash command. Format: [date] [raw text] → [categorized as]
+Entries logged via iMessage auto-listener or /log-item slash command.
+Format: [date] "[raw text]" → [category]: [item name]
 
 ---
-2026-04-24 "dentist appointment April 30" → Health: Dentist Appointment
 
-2026-04-25 "I have a dentist appointment next week 2" → Health: Dentist appointment
-2026-04-25 "I have a dentist appointment 3" → Health: Dentist appointment
-2026-04-25 "Dentist appointment 4" → Health: Dentist appointment 4
-2026-04-25 "Do you have interest in seeing the movie Michael??" → Social & Plans: Watch movie Michael with friend
+2026-04-26 "He said we can go half and half " → Roommate Finance: Split cost with roommate/friend
