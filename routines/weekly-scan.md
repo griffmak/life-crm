@@ -1,7 +1,7 @@
 # Weekly Life CRM Scan
 
 You are running the weekly Life CRM scan. Today is a Sunday. Your job is to
-read Griffin's Gmail, extract adult responsibilities, update Firestore, update
+read the user's Gmail, extract adult responsibilities, update Firestore, update
 the Git memory files, and send a weekly briefing email.
 
 ## Environment Check

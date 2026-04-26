@@ -2,7 +2,7 @@
 
 Last updated: —
 Last scan: —
-Total items: 2
+Total items: 0
 
 ## Housing
 _No items yet_
@@ -14,9 +14,7 @@ _No items yet_
 _No items yet_
 
 ## Social & Plans
-| Name | Next Due | Amount | Urgency | Confidence |
-|------|----------|--------|---------|------------|
-| Watch Wicked 2 | — | — | LOW | confirmed |
+_No items yet_
 
 ## Taxes & Business
 _No items yet_
@@ -28,7 +26,4 @@ _No items yet_
 _No items yet_
 
 ## Roommate Finance
-| Name | Next Due | Amount | Urgency | Confidence |
-|------|----------|--------|---------|------------|
-| Watch Wicked 2 | — | — | LOW | confirmed |
-| Split cost with roommate/friend | — | — | HIGH | confirmed |
+_No items yet_
