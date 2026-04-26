@@ -7,3 +7,4 @@ Format: [date] "[raw text]" → [category]: [item name]
 
 2026-04-26 "He said we can go half and half " → Roommate Finance: Split cost with roommate/friend
 2026-04-26 "And wicked 2" → Social & Plans: Watch Wicked 2
+2026-04-26 "CRM: Read 📕 " → Miscellaneous: Read 📕

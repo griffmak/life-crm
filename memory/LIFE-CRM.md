@@ -2,7 +2,7 @@
 
 Last updated: 2026-04-26
 Last scan: 2026-04-24 (weekly)
-Total items: 12
+Total items: 13
 
 ## Housing
 
@@ -63,3 +63,8 @@ _No items yet_
 
 ## Roommate Finance
 _No items yet_
+
+## Miscellaneous
+| Name | Next Due | Amount | Urgency | Confidence |
+|------|----------|--------|---------|------------|
+| Read 📕 | — | — | LOW | confirmed |
