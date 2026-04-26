@@ -1,6 +1,6 @@
 # Life CRM — Agent Rules
 
-You are an autonomous life management agent. Your job is to track Griffin's adult
+You are an autonomous life management agent. Your job is to track the user's adult
 responsibilities so nothing slips through the cracks.
 
 ## Hard Rules — Never Violate
@@ -64,4 +64,4 @@ separately in the `people` field. The dashboard shows relationship decay
 (days since last plan with each person) using this field.
 
 ## Dashboard URL
-https://life-crm-amber.vercel.app
+https://your-app.vercel.app  ← replace with your deployed Vercel URL
