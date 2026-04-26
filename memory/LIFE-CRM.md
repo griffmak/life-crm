@@ -1,8 +1,8 @@
 # Life CRM — Current State
 
-Last updated: 2026-04-24T12:00:00Z
-Last scan: 2026-04-24 (weekly)
-Total items: 16
+Last updated: 2026-04-26T13:26:00Z
+Last scan: 2026-04-26 (weekly)
+Total items: 17
 
 ## Housing
 
@@ -16,24 +16,24 @@ Total items: 16
 
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
-| PDF2Go Subscription (Failed Payment) | — | $8.00/mo | HIGH | confirmed |
-| Calendly Standard Subscription | 2026-05-18 | $13.07/mo | LOW | confirmed |
-| Replit Core | 2026-05-06 | $21.78/mo | MEDIUM | confirmed |
 | WeTransfer Ultimate | 2026-05-03 | $25.00/mo | MEDIUM | inferred |
+| Replit Core | 2026-05-06 | $21.78/mo | MEDIUM | confirmed |
+| Calendly Standard Subscription | 2026-05-18 | $13.07/mo | LOW | confirmed |
+| Atlassian Subscription | — | unknown | LOW | inferred |
 
-**PDF2Go notes:** Payment failing since 2026-04-18. Mastercard ending 5734. Update billing at account.pdf2go.com. 3+ failed attempts.
-**Calendly notes:** $12.00 base + NY tax $1.07. Receipts #2490-7287 (Mar 18) and #2927-5599 (Apr 18). Billing Apr 18–May 18 2026.
-**Replit notes:** $20.00 base + NY tax $1.78. Receipts #2960-7920 (Mar 6) and #2327-6503 (Apr 6). Billing Apr 6–May 6 2026.
 **WeTransfer notes:** Trial started Jan 27; first charge Feb 3, 2026. No renewal receipts in inbox — verify still active at wetransfer.com.
+**Replit notes:** $20.00 base + NY tax $1.78. Receipts #2960-7920 (Mar 6) and #2327-6503 (Apr 6). Billing Apr 6–May 6 2026.
+**Calendly notes:** $12.00 base + NY tax $1.07. Receipts #2490-7287 (Mar 18) and #2927-5599 (Apr 18). Billing Apr 18–May 18 2026.
+**Atlassian notes:** Invoice IN-006-398-516, payment confirmed 2026-04-24. Amount unknown (PDF invoice only). Verify product and billing cycle at atlassian.com.
 
 ## Health
 
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
+| Dentist Appointment | 2026-04-30 | — | MEDIUM | confirmed |
 | Dentist appointment 4 | — | — | MEDIUM | confirmed |
 | Dentist appointment | — | — | MEDIUM | confirmed |
 | Dentist appointment | — | — | MEDIUM | confirmed |
-| Dentist Appointment | 2026-04-30 | — | MEDIUM | confirmed |
 | Hand in Hand Rehabilitation OT | — | — | LOW | confirmed |
 | Mount Sinai — Pending Referral | — | — | LOW | inferred |
 
@@ -45,9 +45,7 @@ Total items: 16
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
 | Watch movie Michael with friend | — | — | LOW | confirmed |
-| Volo Sports Soccer — Spring 2026 | — | — | LOW | inferred |
-
-**Volo Soccer notes:** Soccer 6v6 Coed, Monday, Chelsea Ballfield. April 2026 season. Registration confirmed Mar 4, 2026. Season underway.
+| Watch Wicked 2 | — | — | LOW | confirmed |
 
 ## Taxes & Business
 _No items yet_
@@ -68,4 +66,9 @@ _No items yet_
 **Hostinger notes:** Domain purchased ~Feb 25, 2026. Name unknown. Renewal ~Feb 2027. Verify at hostinger.com.
 
 ## Roommate Finance
-_No items yet_
+
+| Name | Next Due | Amount | Urgency | Confidence |
+|------|----------|--------|---------|------------|
+| Split cost with roommate/friend | — | — | HIGH | confirmed |
+
+**Split cost notes:** "He said we can go half and half." Amount and item unknown. Confirm details.
