@@ -2,7 +2,7 @@
 
 Last updated: 2026-04-26
 Last scan: 2026-04-24 (weekly)
-Total items: 13
+Total items: 14
 
 ## Housing
 
@@ -41,6 +41,7 @@ Total items: 13
 
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
+| text Avery | 2025-05-12 | — | LOW | confirmed |
 | Watch movie Michael with friend | — | — | LOW | confirmed |
 
 ## Taxes & Business
