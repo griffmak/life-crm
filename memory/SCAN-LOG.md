@@ -13,3 +13,4 @@ One entry per agent run. Format: [date] [type] — [summary]
 2026-05-06 daily-check — 1 overdue, 0 due within 3 days, email: failed (Resend sandbox — host not in allowlist)
 2026-05-07 daily-check — 1 overdue, 0 due within 3 days, email: failed (Resend sandbox — host not in allowlist)
 2026-05-08 daily-check — 1 overdue, 1 due within 3 days, email: failed (Resend sandbox — host not in allowlist)
+2026-05-09 daily-check — 1 overdue, 1 due within 3 days, email: failed (Resend sandbox — host not in allowlist)
