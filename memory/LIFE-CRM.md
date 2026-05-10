@@ -1,8 +1,8 @@
 # Life CRM — Current State
 
-Last updated: 2026-05-03
-Last scan: 2026-05-03 (weekly)
-Total items: 19
+Last updated: 2026-05-10
+Last scan: 2026-05-10 (weekly)
+Total items: 21
 
 ## Housing
 
@@ -17,16 +17,19 @@ Total items: 19
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
 | PDF2Go Subscription — Failed Payment | — | $8.00/mo | HIGH | confirmed |
-| Replit Core | 2026-05-10 | $21.78/mo | MEDIUM | confirmed |
+| Replit Core | 2026-05-10 | $21.78/mo | HIGH | confirmed |
+| Calendly Standard Subscription | 2026-05-18 | $13.07/mo | MEDIUM | confirmed |
 | WeTransfer Ultimate | 2026-05-28 | $25.00/mo | LOW | inferred |
-| Calendly Standard Subscription | 2026-05-18 | $13.07/mo | LOW | confirmed |
+| Claude Pro Subscription | 2026-06-05 | $20.00/mo | LOW | inferred |
+| Microsoft 365 | — | $0.00 | LOW | inferred |
 | Chelsea Piers Fitness — Membership | — | — | LOW | inferred |
 
 **PDF2Go notes:** $8.00/mo to QaamGo Web GmbH (pdf2go.com). One successful payment Mar 12, 2026. Then 7 consecutive failed payment emails Apr 12–24, 2026. Credit card on file rejected. ACTION NEEDED: update payment method at pdf2go.com.
-**Replit notes:** $20.00 base + NY tax $1.78. Receipts #2960-7920 (Mar 6) and #2327-6503 (Apr 6). Expiration notice May 3, 2026: subscription expires May 10, 2026. Renew or cancel before then.
-**WeTransfer notes:** Trial started Jan 27; first charge Feb 3, 2026. No renewal receipts in inbox — verify still active at wetransfer.com.
-**Atlassian notes:** Invoice IN-006-398-516, payment confirmed 2026-04-24. (Loom Business + AI trial expired Mar 27 — now part of paid plan or lapsed.)
+**Replit notes:** $20.00 base + NY tax $1.78. Receipts #2960-7920 (Mar 6) and #2327-6503 (Apr 6). Expiration notice May 3, 2026: expires May 10, 2026. 100% of Credits used as of May 7, 2026 — renew or cancel today.
 **Calendly notes:** $12.00 base + NY tax $1.07. Receipts #2490-7287 (Mar 18) and #2927-5599 (Apr 18). Billing Apr 18–May 18 2026.
+**WeTransfer notes:** Trial started Jan 27; first charge Feb 3, 2026. No renewal receipts in inbox — verify still active at wetransfer.com.
+**Claude Pro notes:** Receipt #2463-3822-8278. $20.00 paid May 5, 2026. Claude Pro plan, billing May 5–Jun 5, 2026. Via Stripe, payment method: Link.
+**Microsoft 365 notes:** Invoice G156962197. Billing period Apr 6–Apr 30, 2026. Amount $0.00. Billed May 9, 2026. Zero-charge Microsoft account. Verify what service this covers at account.microsoft.com.
 **Chelsea Piers notes:** Active gym membership inferred from member survey email May 1, 2026. No billing receipts in inbox — verify amount and billing date at chelseapiers.com/fitness.
 
 ## Health
