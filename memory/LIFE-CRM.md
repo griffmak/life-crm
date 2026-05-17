@@ -1,8 +1,8 @@
 # Life CRM — Current State
 
-Last updated: 2026-05-10
-Last scan: 2026-05-10 (weekly)
-Total items: 21
+Last updated: 2026-05-17
+Last scan: 2026-05-17 (weekly)
+Total items: 22
 
 ## Housing
 
@@ -18,15 +18,15 @@ Total items: 21
 |------|----------|--------|---------|------------|
 | PDF2Go Subscription — Failed Payment | — | $8.00/mo | HIGH | confirmed |
 | Replit Core | 2026-05-10 | $21.78/mo | HIGH | confirmed |
-| Calendly Standard Subscription | 2026-05-18 | $13.07/mo | MEDIUM | confirmed |
+| Calendly Standard Subscription | 2026-05-18 | $13.07/mo | HIGH | confirmed |
 | WeTransfer Ultimate | 2026-05-28 | $25.00/mo | LOW | inferred |
 | Claude Pro Subscription | 2026-06-05 | $20.00/mo | LOW | inferred |
 | Microsoft 365 | — | $0.00 | LOW | inferred |
 | Chelsea Piers Fitness — Membership | — | — | LOW | inferred |
 
 **PDF2Go notes:** $8.00/mo to QaamGo Web GmbH (pdf2go.com). One successful payment Mar 12, 2026. Then 7 consecutive failed payment emails Apr 12–24, 2026. Credit card on file rejected. ACTION NEEDED: update payment method at pdf2go.com.
-**Replit notes:** $20.00 base + NY tax $1.78. Receipts #2960-7920 (Mar 6) and #2327-6503 (Apr 6). Expiration notice May 3, 2026: expires May 10, 2026. 100% of Credits used as of May 7, 2026 — renew or cancel today.
-**Calendly notes:** $12.00 base + NY tax $1.07. Receipts #2490-7287 (Mar 18) and #2927-5599 (Apr 18). Billing Apr 18–May 18 2026.
+**Replit notes:** $20.00 base + NY tax $1.78. Receipts #2960-7920 (Mar 6) and #2327-6503 (Apr 6). Expiration notice May 3, 2026: expired May 10, 2026. 100% of Credits used as of May 7, 2026 — renew or cancel.
+**Calendly notes:** $12.00 base + NY tax $1.07. Receipts #2490-7287 (Mar 18) and #2927-5599 (Apr 18). Billing Apr 18–May 18 2026. Next renewal May 18.
 **WeTransfer notes:** Trial started Jan 27; first charge Feb 3, 2026. No renewal receipts in inbox — verify still active at wetransfer.com.
 **Claude Pro notes:** Receipt #2463-3822-8278. $20.00 paid May 5, 2026. Claude Pro plan, billing May 5–Jun 5, 2026. Via Stripe, payment method: Link.
 **Microsoft 365 notes:** Invoice G156962197. Billing period Apr 6–Apr 30, 2026. Amount $0.00. Billed May 9, 2026. Zero-charge Microsoft account. Verify what service this covers at account.microsoft.com.
@@ -36,9 +36,11 @@ Total items: 21
 
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
+| Gusto Benefits Enrollment — Reejig | 2026-05-21 | — | MEDIUM | inferred |
 | Mount Sinai — Pending Referral | — | — | LOW | inferred |
 | Hand in Hand Rehabilitation OT | — | — | LOW | confirmed |
 
+**Gusto Benefits notes:** Gusto email May 16, 2026: Action required — enroll in or waive Reejig employer health benefits by May 21, 2026. Coverage starts May 1, 2026. Must complete to either select a plan or officially opt out. Enroll at app.gusto.com.
 **Mount Sinai notes:** Reminders to schedule referral in MyMountSinai, Feb 17–Mar 4. Earliest available was 3/3. May still be unscheduled — verify.
 **Hand in Hand notes:** 153 E 87th St 1A, NYC 10128. (212) 472-1000. Multiple appointment reminders Feb–Mar 2026. Ongoing OT treatment.
 
@@ -67,13 +69,13 @@ _No items yet_
 
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
-| Anthropic API Usage | — | ~$5/charge | LOW | confirmed |
+| Anthropic API Usage | — | ~$5-10/charge | LOW | confirmed |
 | OpenRouter API Usage | — | ~$11.76/charge | LOW | inferred |
 | fal.ai API Usage | — | ~$10.00/charge | LOW | inferred |
 | Squarespace Domain(s) | 2027-03-09 | — | LOW | inferred |
 | Hostinger Domain | 2027-02-25 | — | LOW | inferred |
 
-**Anthropic notes:** Usage-based top-ups on Individual plan. ~$5 per charge. 10+ receipts Feb–Apr 2026.
+**Anthropic notes:** Usage-based top-ups on Individual plan. ~$5-10 per charge. 10+ receipts Feb–Apr 2026. Latest: Receipt #2373-1815-6634, $10.00 paid May 10, 2026. Invoice DNXKCNJP-0024.
 **OpenRouter notes:** Receipt #1217-7209, $11.76 paid Mar 20, 2026. Usage-based AI model API routing service.
 **fal.ai notes:** Receipt #1851-2475, $10.00 paid Mar 11, 2026. Usage-based AI image/video generation API.
 **Squarespace notes:** Two domain purchases Mar 8–9, 2026. Domain names unknown. Renewal ~Mar 2027. Verify at squarespace.com/domains.
