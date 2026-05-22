@@ -22,3 +22,4 @@ One entry per agent run. Format: [date] [type] — [summary]
 2026-05-19 daily-check — 2 overdue, 1 due within 3 days, email: failed (Resend sandbox — host not in allowlist)
 2026-05-20 daily-check — 2 overdue, 1 due within 3 days, email: failed (Resend sandbox — host not in allowlist)
 2026-05-21 daily-check — 3 overdue, 0 due within 3 days, email: failed (Resend sandbox — host not in allowlist)
+2026-05-22 daily-check — 3 overdue, 0 due within 3 days, email: failed (Resend sandbox — host not in allowlist); Firestore: failed (403 PERMISSION_DENIED) — used LIFE-CRM.md fallback
