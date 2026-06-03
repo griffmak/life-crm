@@ -34,3 +34,4 @@ One entry per agent run. Format: [date] [type] — [summary]
 2026-05-31 weekly-scan — 0 new, 2 updated, 22 total items, email: failed (Resend sandbox — exit code 22); Firestore: failed (403 PERMISSION_DENIED) — used LIFE-CRM.md fallback
 2026-06-01 daily-check — 4 overdue, 1 due within 3 days, email: failed (Resend sandbox — exit code 22); Firestore: failed (exit code 22) — used LIFE-CRM.md fallback
 2026-06-02 daily-check — 5 overdue, 1 due within 3 days, email: failed (Resend sandbox — exit code 22); Firestore: failed (exit code 22) — used LIFE-CRM.md fallback
+2026-06-03 daily-check — 5 overdue, 1 due within 3 days, email: failed (Resend sandbox — exit code 22); Firestore: failed (403 PERMISSION_DENIED) — used LIFE-CRM.md fallback
