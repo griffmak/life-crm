@@ -80,3 +80,4 @@ One entry per agent run. Format: [date] [type] — [summary]
 2026-07-16 daily-check FAILED — Firestore: 403 PERMISSION_DENIED; LIFE-CRM.md missing (no fallback available); email: skipped
 2026-07-17 daily-check FAILED — Firestore: failed (exit code 22); LIFE-CRM.md missing (no fallback available); email: skipped
 2026-07-18 daily-check — 6 overdue, 1 due within 3 days (Calendly TODAY), email: failed (Resend — exit code 22, network blocked); Firestore: failed (exit code 22) — used LIFE-CRM.md fallback
+2026-07-19 weekly-scan — 1 new, 1 updated, 30 total items, email: failed (Resend — exit code 22, network blocked); Firestore: failed (exit code 22) — used LIFE-CRM.md fallback

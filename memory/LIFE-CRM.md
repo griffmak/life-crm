@@ -1,16 +1,16 @@
 # Life CRM — Current State
 
-Last updated: 2026-07-12
-Last scan: 2026-07-12 (weekly)
-Total items: 29
+Last updated: 2026-07-19
+Last scan: 2026-07-19 (weekly)
+Total items: 30
 
 ## Housing
 
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
-| Monthly Rent — Parc East | 2026-08-01 | $2,073.79/mo | LOW | confirmed |
+| Monthly Rent — Parc East | 2026-08-01 | $2,073.79/mo | MEDIUM | confirmed |
 
-**Rent notes:** Parc East (Equity Residential). Paid via Bilt on 1st of month. Lease 19469-000-16H-11 signed 2026-01-26. **July 1 rent CONFIRMED PAID via Bilt** ("Your rent payment is processing" email Jul 1, 2026 — earning 250 Bilt Points). Next due Aug 1, 2026. Pay via app.bilt.com.
+**Rent notes:** Parc East (Equity Residential). Paid via Bilt on 1st of month. Lease 19469-000-16H-11 signed 2026-01-26. **July 1 rent CONFIRMED PAID via Bilt** ("Your rent payment is processing" email Jul 1, 2026 — earning 250 Bilt Points). Next due Aug 1, 2026. Pay via app.bilt.com. **13 days out as of 2026-07-19 — MEDIUM urgency.**
 
 ## Bills & Subscriptions
 
@@ -21,8 +21,8 @@ Total items: 29
 | WeTransfer Ultimate | 2026-05-28 | $25.00/mo | HIGH | inferred |
 | ChatGPT Go Subscription | 2026-07-08 | $8.71/mo | HIGH | inferred |
 | Chase Sapphire Preferred — Credit Card Payment | 2026-07-13 | $2,901.53 | HIGH | confirmed |
-| Calendly Standard Subscription | 2026-07-18 | $13.07/mo | MEDIUM | confirmed |
 | Claude Pro Subscription | 2026-08-05 | $20.00/mo | LOW | confirmed |
+| Calendly Standard Subscription | 2026-08-18 | $13.07/mo | LOW | confirmed |
 | Microsoft 365 | — | $0.00 | LOW | inferred |
 | Chelsea Piers Fitness — Membership | — | — | LOW | inferred |
 
@@ -30,9 +30,9 @@ Total items: 29
 **Replit notes:** $20.00 base + NY tax $1.78. Receipts #2960-7920 (Mar 6) and #2327-6503 (Apr 6). Expiration notice May 3, 2026: expired May 10, 2026. 100% of Credits used as of May 7, 2026 — renew or cancel.
 **WeTransfer notes:** Trial started Jan 27; first charge Feb 3, 2026. No renewal receipts in inbox — verify still active at wetransfer.com. Due date May 28 has passed — OVERDUE. Verify at wetransfer.com and update payment if needed.
 **ChatGPT Go notes:** Subscribed Jun 8, 2026. Order sub_1TgFLtC6h1nxGoI3YQL9iTmC. $8.00 base + $0.71 NY tax = $8.71/mo. Auto-renews monthly Jul 8, 2026. Via Chase Sapphire Visa-7544. No Jul receipt seen — verify renewal at chatgpt.com/account/manage.
-**Chase Sapphire notes:** Account ...7544. Autopay confirmed scheduled (email Jul 3, 2026). Statement balance $2,901.53 as of Jul 3. Autopay set to pay full statement balance. Due Jul 13, 2026 — DUE TOMORROW. Minimum payment $40.00. Previous statement Jun 13: $2,108.05.
-**Calendly notes:** $12.00 base + NY tax $1.07 = $13.07/mo. Receipts #2490-7287 (Mar 18), #2927-5599 (Apr 18), #2833-2032 (May 18), #2155-1210 (Jun 18, Invoice XGNHKCRD-0004). Billing Jun 18–Jul 18, 2026. Next renewal Jul 18, 2026.
+**Chase Sapphire notes:** Account ...7544. Autopay confirmed scheduled (email Jul 3, 2026). Statement balance $2,901.53 as of Jul 3. Autopay set to pay full statement balance. Due Jul 13, 2026 — OVERDUE (autopay was scheduled; verify payment completed at chase.com). Minimum payment $40.00. Previous statement Jun 13: $2,108.05.
 **Claude Pro notes:** Receipt #2462-6153-1089, Invoice DNXKCNJP-0033 (Jul 5, 2026, $20.00). Auto-renewed Jul 5. Billing Jul 5–Aug 5, 2026. Next renewal Aug 5, 2026. Via Stripe Link. Confidence: confirmed.
+**Calendly notes:** $12.00 base + NY tax $1.07 = $13.07/mo. Receipts #2490-7287 (Mar 18), #2927-5599 (Apr 18), #2833-2032 (May 18), #2155-1210 (Jun 18, Invoice XGNHKCRD-0004), **#2333-7719 (Jul 18, 2026, Invoice XGNHKCRD-0005)**. Billing Jul 18–Aug 18, 2026. Next renewal Aug 18, 2026. Via Visa ...7544.
 **Microsoft 365 notes:** Invoice G156962197. Billing period Apr 6–Apr 30, 2026. Amount $0.00. Billed May 9, 2026. Zero-charge Microsoft account. Verify what service this covers at account.microsoft.com.
 **Chelsea Piers notes:** Active gym membership inferred from member survey email May 1, 2026. July events email received Jul 1, 2026. No billing receipts in inbox — verify amount and billing date at chelseapiers.com/fitness.
 
@@ -56,9 +56,11 @@ Total items: 29
 
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
+| Spider-Man: Brand New Day — Movie Tickets | 2026-07-31 | $129.00 | MEDIUM | inferred |
 | text Avery | 2025-05-12 | — | LOW | confirmed |
 | Volo Sports Soccer — May 2026 | — | — | LOW | confirmed |
 
+**Spider-Man notes:** NEW — 5 adult tickets. Spider-Man: Brand New Day (2026), 2h 25m. Friday Jul 31, 2026 at 8:30 PM. Regal Union Square ScreenX & 4DX, 850 Broadway, New York NY 10003. Reserved Seating: G3, G4, G5, G6, G7. Confirmation #WMBB9H4 (Fandango). Total $129.00 paid via Visa ...7544 Jul 16, 2026. Charity donation $0.60 to Boys & Girls Club included. Refund/exchange available until showtime.
 **Volo Soccer notes:** Soccer (7v7 Coed) - Sunday - Seward Park (LES) - May 2026. Registration confirmed Apr 26, 2026.
 **Avery note:** Due date 2025-05-12 appears stale — verify if still relevant.
 
