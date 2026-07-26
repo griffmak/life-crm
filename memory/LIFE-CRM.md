@@ -1,8 +1,8 @@
 # Life CRM — Current State
 
-Last updated: 2026-07-19
-Last scan: 2026-07-19 (weekly)
-Total items: 30
+Last updated: 2026-07-26
+Last scan: 2026-07-26 (weekly)
+Total items: 31
 
 ## Housing
 
@@ -21,10 +21,11 @@ Total items: 30
 | WeTransfer Ultimate | 2026-05-28 | $25.00/mo | HIGH | inferred |
 | ChatGPT Go Subscription | 2026-07-08 | $8.71/mo | HIGH | inferred |
 | Chase Sapphire Preferred — Credit Card Payment | 2026-07-13 | $2,901.53 | HIGH | confirmed |
-| Claude Pro Subscription | 2026-08-05 | $20.00/mo | LOW | confirmed |
+| Claude Pro Subscription | 2026-08-05 | $20.00/mo | MEDIUM | confirmed |
 | Calendly Standard Subscription | 2026-08-18 | $13.07/mo | LOW | confirmed |
 | Microsoft 365 | — | $0.00 | LOW | inferred |
 | Chelsea Piers Fitness — Membership | — | — | LOW | inferred |
+| Make.com Core Plan — Expired | — | ~$9/mo | HIGH | inferred |
 
 **PDF2Go notes:** $8.00/mo to QaamGo Web GmbH (pdf2go.com). One successful payment Mar 12, 2026. Then 7 consecutive failed payment emails Apr 12–24, 2026. Credit card on file rejected. ACTION NEEDED: update payment method at pdf2go.com.
 **Replit notes:** $20.00 base + NY tax $1.78. Receipts #2960-7920 (Mar 6) and #2327-6503 (Apr 6). Expiration notice May 3, 2026: expired May 10, 2026. 100% of Credits used as of May 7, 2026 — renew or cancel.
@@ -35,6 +36,7 @@ Total items: 30
 **Calendly notes:** $12.00 base + NY tax $1.07 = $13.07/mo. Receipts #2490-7287 (Mar 18), #2927-5599 (Apr 18), #2833-2032 (May 18), #2155-1210 (Jun 18, Invoice XGNHKCRD-0004), **#2333-7719 (Jul 18, 2026, Invoice XGNHKCRD-0005)**. Billing Jul 18–Aug 18, 2026. Next renewal Aug 18, 2026. Via Visa ...7544.
 **Microsoft 365 notes:** Invoice G156962197. Billing period Apr 6–Apr 30, 2026. Amount $0.00. Billed May 9, 2026. Zero-charge Microsoft account. Verify what service this covers at account.microsoft.com.
 **Chelsea Piers notes:** Active gym membership inferred from member survey email May 1, 2026. July events email received Jul 1, 2026. No billing receipts in inbox — verify amount and billing date at chelseapiers.com/fitness.
+**Make.com notes:** Core plan subscription ended ~Jul 24, 2026. 3-day warning email received Jul 21. Organization now on Free plan: 1,000 credits/month, max 2 active scenarios. ACTION NEEDED: decide whether to renew (Core plan ~$9/mo) or accept Free plan downgrade at us2.make.com/organization/4680567/subscription.
 
 ## Health
 
@@ -80,7 +82,7 @@ _No items yet_
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
 | Anthropic API Usage | — | ~$5-50/charge | LOW | confirmed |
-| Render Services | — | ~$8.00/charge | LOW | confirmed |
+| Render Services | 2026-08-01 | ~$8.00/charge | MEDIUM | confirmed |
 | OpenRouter API Usage | — | ~$11.76/charge | LOW | inferred |
 | fal.ai API Usage | — | ~$10.00/charge | LOW | inferred |
 | Replicate API Usage | — | ~$10.00/charge | LOW | inferred |
