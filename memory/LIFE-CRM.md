@@ -1,8 +1,8 @@
 # Life CRM — Current State
 
-Last updated: 2026-08-09
-Last scan: 2026-08-09 (weekly)
-Total items: 33
+Last updated: 2026-08-16
+Last scan: 2026-08-16 (weekly)
+Total items: 35
 
 ## Housing
 
@@ -10,7 +10,7 @@ Total items: 33
 |------|----------|--------|---------|------------|
 | Monthly Rent — Parc East | 2026-09-01 | $2,149.84/mo | LOW | confirmed |
 
-**Rent notes:** Parc East (Equity Residential). Paid via Bilt on 1st of month. Lease 19469-000-16H-11 signed 2026-01-26. **August 2026 rent CONFIRMED PAID via Bilt** ("Your rent payment is processing" email Aug 2, 2026 — payment $2,149.84, earning 250 Bilt Points, bank account: Chase, Transaction ID: 1eb967e9-c1ad-4adf-a59f-496252494dfc). **Amount increased from $2,073.79 to $2,149.84** — verify lease renewal/rent increase notice. Next due Sep 1, 2026. Pay via app.bilt.com.
+**Rent notes:** Parc East (Equity Residential). Paid via Bilt on 1st of month. Lease 19469-000-16H-11 signed 2026-01-26. **August 2026 rent CONFIRMED PAID via Bilt** ("Your rent payment is processing" email Aug 2, 2026 — payment $2,149.84, earning 250 Bilt Points, bank account: Chase, Transaction ID: 1eb967e9-c1ad-4adf-a59f-496252494dfc). **Amount increased from $2,073.79 to $2,149.84** — verify lease renewal/rent increase notice. **Sep 2026 charges posted Aug 14** per Equity Residential email Aug 13: "September rent still due September 1." Next due Sep 1, 2026. Pay via app.bilt.com.
 
 ## Bills & Subscriptions
 
@@ -20,9 +20,9 @@ Total items: 33
 | Replit Core | 2026-05-10 | $21.78/mo | HIGH | confirmed |
 | WeTransfer Ultimate | 2026-05-28 | $25.00/mo | HIGH | inferred |
 | ChatGPT Go Subscription | 2026-07-08 | $8.71/mo | HIGH | inferred |
+| Calendly Standard Subscription | 2026-08-18 | $13.07/mo | HIGH | confirmed |
 | Chase Sapphire Preferred — Credit Card Payment | 2026-08-13 | $2,338.46 | MEDIUM | confirmed |
 | Claude Pro Subscription | 2026-09-05 | $20.00/mo | LOW | confirmed |
-| Calendly Standard Subscription | 2026-08-18 | $13.07/mo | MEDIUM | confirmed |
 | Microsoft 365 | — | $0.00 | LOW | inferred |
 | Chelsea Piers Fitness — Membership | — | — | LOW | inferred |
 | Make.com Core Plan — Expired | — | ~$9/mo | HIGH | inferred |
@@ -31,9 +31,9 @@ Total items: 33
 **Replit notes:** $20.00 base + NY tax $1.78. Receipts #2960-7920 (Mar 6) and #2327-6503 (Apr 6). Expiration notice May 3, 2026: expired May 10, 2026. 100% of Credits used as of May 7, 2026 — renew or cancel.
 **WeTransfer notes:** Trial started Jan 27; first charge Feb 3, 2026. No renewal receipts in inbox — verify still active at wetransfer.com. Due date May 28 has passed — OVERDUE. Verify at wetransfer.com and update payment if needed.
 **ChatGPT Go notes:** Subscribed Jun 8, 2026. Order sub_1TgFLtC6h1nxGoI3YQL9iTmC. $8.00 base + $0.71 NY tax = $8.71/mo. Auto-renews monthly Jul 8, 2026. Via Chase Sapphire Visa-7544. No Jul/Aug receipt seen — verify renewal at chatgpt.com/account/manage.
-**Chase Sapphire notes:** Account ...7544. New statement as of Aug 3, 2026: balance $2,338.46. Autopay scheduled for Aug 13, 2026 — pays full statement balance. Minimum payment $40.00. Previous statement Jul 3: $2,901.53 (autopay confirmed paid).
+**Calendly notes:** $12.00 base + NY tax $1.07 = $13.07/mo. Receipts #2490-7287 (Mar 18), #2927-5599 (Apr 18), #2833-2032 (May 18), #2155-1210 (Jun 18, Invoice XGNHKCRD-0004), #2333-7719 (Jul 18, 2026, Invoice XGNHKCRD-0005). Billing Jul 18–Aug 18, 2026. **Next renewal Aug 18, 2026 — IN 2 DAYS (HIGH).** Via Visa ...7544.
+**Chase Sapphire notes:** Account ...7544. Statement as of Aug 3, 2026: balance $2,338.46. Autopay scheduled for Aug 13, 2026 — pays full statement balance. Minimum payment $40.00. Autopay should have fired Aug 13 — verify at chase.com. Previous statement Jul 3: $2,901.53 (autopay confirmed paid).
 **Claude Pro notes:** Receipt #2391-4215-6212, Invoice DNXKCNJP-0034 (Aug 5, 2026, $20.00). Auto-renewed Aug 5. Billing Aug 5–Sep 5, 2026. Next renewal Sep 5, 2026. Via Stripe Link. Confidence: confirmed.
-**Calendly notes:** $12.00 base + NY tax $1.07 = $13.07/mo. Receipts #2490-7287 (Mar 18), #2927-5599 (Apr 18), #2833-2032 (May 18), #2155-1210 (Jun 18, Invoice XGNHKCRD-0004), #2333-7719 (Jul 18, 2026, Invoice XGNHKCRD-0005). Billing Jul 18–Aug 18, 2026. Next renewal Aug 18, 2026. Via Visa ...7544.
 **Microsoft 365 notes:** Invoice G156962197. Billing period Apr 6–Apr 30, 2026. Amount $0.00. Billed May 9, 2026. Zero-charge Microsoft account. Verify what service this covers at account.microsoft.com.
 **Chelsea Piers notes:** Active gym membership inferred from member survey email May 1, 2026. July events email received Jul 1, 2026. No billing receipts in inbox — verify amount and billing date at chelseapiers.com/fitness.
 **Make.com notes:** Core plan subscription ended ~Jul 24, 2026. 3-day warning email received Jul 21. Organization now on Free plan: 1,000 credits/month, max 2 active scenarios. ACTION NEEDED: decide whether to renew (Core plan ~$9/mo) or accept Free plan downgrade at us2.make.com/organization/4680567/subscription.
@@ -63,7 +63,7 @@ Total items: 33
 | text Avery | 2025-05-12 | — | LOW | confirmed |
 | Volo Sports Soccer — May 2026 | — | — | LOW | confirmed |
 
-**FlixBus notes:** Trip TOMORROW (Aug 10, 2026). FlixBus booking #3382345509. Departure: Split bus station 08:30 AM, Arrival: Dubrovnik bus station 12:35 PM. Bus #974. Passengers: Griffin Maklansky (seat 8B) and Ava Oaborn (seat 8A). Confirmation email and boarding passes received Aug 7. Payment proof also received. People: Ava Oaborn.
+**FlixBus notes:** Trip date Aug 10, 2026 (PAST — verify attended). FlixBus booking #3382345509. Departure: Split bus station 08:30 AM, Arrival: Dubrovnik bus station 12:35 PM. Bus #974. Passengers: Griffin Maklansky (seat 8B) and Ava Oaborn (seat 8A). People: Ava Oaborn.
 **Spider-Man notes:** 5 adult tickets. Spider-Man: Brand New Day (2026), 2h 25m. Friday Jul 31, 2026 at 8:30 PM. Regal Union Square ScreenX & 4DX, 850 Broadway, New York NY 10003. Reserved Seating: G3, G4, G5, G6, G7. Confirmation #WMBB9H4 (Fandango). Total $129.00 paid via Visa ...7544 Jul 16, 2026. **Event date (Jul 31) has passed** — mark done when confirmed attended.
 **Volo Soccer notes:** Soccer (7v7 Coed) - Sunday - Seward Park (LES) - May 2026. Registration confirmed Apr 26, 2026.
 **Avery note:** Due date 2025-05-12 appears stale — verify if still relevant.
@@ -83,6 +83,8 @@ _No items yet_
 
 | Name | Next Due | Amount | Urgency | Confidence |
 |------|----------|--------|---------|------------|
+| GroqCloud API — Llama 3.3 70B Versatile Decommissioned | 2026-08-16 | usage-based | HIGH | inferred |
+| GroqCloud API — Llama 3.1 8B Instant Decommissioned | 2026-08-16 | usage-based | HIGH | inferred |
 | Anthropic API Usage | — | ~$5-50/charge | LOW | confirmed |
 | Render Services | 2026-09-04 | ~$7.00/charge | LOW | confirmed |
 | OpenRouter API Usage | — | ~$11.76/charge | LOW | inferred |
@@ -93,6 +95,8 @@ _No items yet_
 | itch.io Game Purchase — Warped City | — | $9.00 | LOW | inferred |
 | Atlas Cloud — Credit | — | $25.00/charge | LOW | inferred |
 
+**GroqCloud Llama 3.3 70B notes:** DECOMMISSIONED Aug 16, 2026 (TODAY). Two reminder emails received Aug 13 & 15. Migrate any code using `llama-3.3-70b-versatile` to GPT OSS 120B or Qwen3.6 27B immediately. Requests to the model no longer served. Manage at console.groq.com. Contact: support@groq.com.
+**GroqCloud Llama 3.1 8B notes:** DECOMMISSIONED Aug 16, 2026 (TODAY). Reminder email received Aug 13. Migrate any code using `llama-3.1-8b-instant` to GPT OSS 20B immediately. Requests to the model no longer served. Manage at console.groq.com. Contact: support@groq.com.
 **Anthropic notes:** Usage-based top-ups on Individual plan. Claude Pro tracked separately. Prior top-ups: Receipt #2276-7405-1734 ($10.00, Jun 28, DNXKCNJP-0030), Receipt #2331-9444-7460 ($5.00, Jun 28, DNXKCNJP-0031), Receipt #2197-7494-5114 ($45.00, Jul 4, DNXKCNJP-0032), Receipt #2458-6811-7162 ($50.00, Jun 21). Total 18+ top-up receipts Feb–Jul 2026. "Prepaid extra usage, Individual plan" via Stripe/Link.
 **Render notes:** Receipt #2514-0162, Invoice HLIQJSYV-0004. $7.00 paid Aug 4, 2026 (Cron Jobs $0.00 + 2 server instances $7.00, ~1,488h). Via Visa ...7544. Previous receipt Jul 4: $8.00 (HLIQJSYV-0003). Under new Hobby plan pricing (effective Aug 1, 2026). Next billing ~Sep 4, 2026. Review at render.com.
 **OpenRouter notes:** Receipt #1217-7209, $11.76 paid Mar 20, 2026. Usage-based AI model API routing service.
