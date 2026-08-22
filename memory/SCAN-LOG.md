@@ -114,3 +114,4 @@ One entry per agent run. Format: [date] [type] — [summary]
 2026-08-19 daily-check — 11 overdue, 0 due within 3 days, email: failed (Resend — exit code 22, network blocked); Firestore: failed (exit code 22) — used LIFE-CRM.md fallback
 2026-08-20 daily-check FAILED — Firestore: failed (exit code 22, network blocked); LIFE-CRM.md missing (no fallback available); email: skipped
 2026-08-21 daily-check — 11 overdue, 0 due within 3 days, email: failed (Resend — exit code 22, network blocked); Firestore: failed (exit code 22) — used LIFE-CRM.md fallback
+2026-08-22 daily-check — 11 overdue, 0 due within 3 days, email: failed (Resend — exit code 22, network blocked); Firestore: failed (exit code 22) — used LIFE-CRM.md fallback
