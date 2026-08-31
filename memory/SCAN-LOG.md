@@ -123,3 +123,4 @@ One entry per agent run. Format: [date] [type] — [summary]
 2026-08-28 daily-check FAILED — Firestore: failed (exit code 22, network blocked); LIFE-CRM.md missing (no fallback available); email: skipped
 2026-08-29 daily-check — 11 overdue, 1 due within 3 days (Rent Sep 1), email: failed (Resend — exit code 22, network blocked); Firestore: failed (exit code 22) — used LIFE-CRM.md fallback
 2026-08-30 weekly-scan FAILED — Gmail MCP not connected (authentication required; non-interactive session cannot complete OAuth flow)
+2026-08-31 daily-check FAILED — Firestore: 403 PERMISSION_DENIED; LIFE-CRM.md missing (no fallback available); email: skipped — NOTE: yesterday's log shows Rent due Sep 1 (HIGH urgency)
