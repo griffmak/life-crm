@@ -129,3 +129,4 @@ One entry per agent run. Format: [date] [type] — [summary]
 2026-09-03 daily-check — 12 overdue, 2 due within 3 days (Render Sep 4, Claude Pro Sep 5; RENT OVERDUE $2,149.84), email: failed (Resend — exit code 22, network blocked); Firestore: failed (exit code 22) — used LIFE-CRM.md fallback
 2026-09-04 daily-check — 12 overdue, 2 due within 3 days (Render TODAY Sep 4, Claude Pro Sep 5; RENT OVERDUE $2,149.84), email: failed (Resend — exit code 22, network blocked); Firestore: failed (exit code 22) — used LIFE-CRM.md fallback
 2026-09-05 daily-check — 14 overdue, 0 due within 3 days (Render Sep 4 now overdue, Claude Pro Sep 5 now overdue; RENT OVERDUE $2,149.84 — 4 days late), email: failed (Resend — exit code 22, network blocked); Firestore: failed (403 PERMISSION_DENIED) — used LIFE-CRM.md fallback
+2026-09-06 weekly-scan FAILED — Gmail MCP not connected (authentication required; non-interactive session cannot complete OAuth flow)
