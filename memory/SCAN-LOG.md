@@ -142,3 +142,4 @@ One entry per agent run. Format: [date] [type] — [summary]
 2026-09-16 daily-check FAILED — Firestore: 403 PERMISSION_DENIED; LIFE-CRM.md missing (no fallback available); email: skipped — NOTE: prior state shows 14+ overdue items; Resend email delivery has been failing for months
 2026-09-17 daily-check FAILED — Firestore: 403 PERMISSION_DENIED; LIFE-CRM.md missing (no fallback available); email: skipped — NOTE: 3rd consecutive FAILED run; prior state shows 14+ overdue items; both delivery channels broken for months
 2026-09-18 daily-check — 14 overdue, 0 due within 3 days, email: failed (Resend — exit code 22, network blocked); Firestore: failed (403 PERMISSION_DENIED) — used LIFE-CRM.md fallback
+2026-09-19 daily-check FAILED — Firestore: 403 PERMISSION_DENIED; LIFE-CRM.md missing (no fallback available); email: skipped — NOTE: 4th FAILED run in recent stretch; 14+ overdue items persist; Resend/Firestore both broken for months — manual intervention required
