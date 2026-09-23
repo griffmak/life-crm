@@ -146,3 +146,4 @@ One entry per agent run. Format: [date] [type] — [summary]
 2026-09-20 weekly-scan FAILED — Gmail MCP not connected (token expired; non-interactive session cannot complete OAuth flow)
 2026-09-21 daily-check — 14 overdue, 0 due within 3 days, email: failed (Resend — exit code 22, network blocked); Firestore: failed (exit code 22) — used LIFE-CRM.md fallback — NOTE: RENT $2,149.84 now 20 days overdue; both Resend and Firestore have been failing for months; manual intervention urgently needed
 2026-09-22 daily-check — 14 overdue, 0 due within 3 days, email: failed (Resend — exit code 22, network blocked); Firestore: failed (no output) — used LIFE-CRM.md fallback
+2026-09-23 daily-check FAILED — Firestore: 403 PERMISSION_DENIED; LIFE-CRM.md missing (no fallback available); email: skipped — NOTE: RENT $2,149.84 now 22 days overdue; 14+ overdue items persist; Resend and Firestore have been failing for months — manual intervention urgently needed
